@@ -1,8 +1,8 @@
 # countdowntimer
 
-A new Flutter project.
 
-## Getting Started
+Flutter Project for CountDownTimer
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+
+<h1>ACTUAL IMPLEMENTATION</h1>=
+<img src="https://github.com/Harsh23Kashyap/CountDown-Timer/blob/main/1.png" width="300" height="600">
